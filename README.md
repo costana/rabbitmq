@@ -2,7 +2,7 @@
 
 ## Setup
 ```
-git clone 
+git clone https://github.com/costana/rabbitmq.git
 cd rabbitmq
 docker-compose up
 ```
