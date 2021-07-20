@@ -5,6 +5,13 @@
 git clone https://github.com/costana/rabbitmq.git
 cd rabbitmq
 docker-compose up
+
+cd Receive
+dotnet run
+
+cd Send
+dotnet run
+
 ```
 
 ## Play
