@@ -9,19 +9,18 @@ docker-compose up
 ```
 
 ## Play
-Acesse http://localhost:15672 
-
-Use os dados de acesso
-
-```
-username: tico
-password: tico123
-```
-
 ```
 cd examples/Receive
 dotnet run
 
 cd examples/Send
 dotnet run
+```
+Acesso ao Management UI: http://localhost:15672 
+
+Use os dados de acesso
+
+```
+username: tico
+password: tico123
 ```
