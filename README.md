@@ -6,10 +6,10 @@ git clone https://github.com/costana/rabbitmq.git
 cd rabbitmq
 docker-compose up
 
-cd Receive
+cd examples/Receive
 dotnet run
 
-cd Send
+cd examples/Send
 dotnet run
 
 ```
